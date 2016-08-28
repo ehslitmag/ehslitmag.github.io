@@ -65,7 +65,7 @@ h1 {
 	letter-spacing:5px;
 }
 
-h2, #timeline th {
+#timeline th, h2 {
 	font:1.7em;
 	text-transform:uppercase;
 	letter-spacing:2px;
