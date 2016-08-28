@@ -1,10 +1,10 @@
 /* Responsive */
 
 @media only screen and (max-width:769px) {
-    header {text-align:center;}
+	header {text-align:center;}
 	header #title {font-size:1.8em;}
 	.container-fluid {min-width:100%;}
-    header nav {display:none;}
+	header nav {display:none;}
 	header .slideri {display:none;}
 	h1 {display:none;}
 	.info {min-width:80%;}
@@ -13,13 +13,13 @@
 /* Scroll bar */
 
 ::-webkit-scrollbar {
-    background:#101010;
+	background:#101010;
 	width:16px;
 	height:10px;
 }
 
 ::-webkit-scrollbar-thumb {
-    background:#ffffff;
+	background:#ffffff;
 	border:7px solid #101010;
 }
 
@@ -58,6 +58,8 @@ body {
 	color:#000000;
 
 }
+
+h1, h2 {line-height:100%;}
 
 h1 {
 	font-size:4em;
