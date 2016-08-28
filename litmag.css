@@ -65,7 +65,7 @@ h1 {
 	letter-spacing:5px;
 }
 
-h2 {
+h2, #timeline th {
 	font:1.7em;
 	text-transform:uppercase;
 	letter-spacing:2px;
@@ -248,14 +248,11 @@ a#onpage {
 	width:65%;
 }
 
-#timeline th {border-bottom:1px solid #e5e5e5;}
-
 #timeline th:first-child {border-right:1px solid #e5e5e5}
 
 #timeline th {
-	font-size:1.5em;
 	text-align:left;
-	font-weight:bold;
+	border-bottom:1px solid #e5e5e5;
 	padding:5% 4%;
 }
 
