@@ -114,7 +114,7 @@ a:hover {
 
 .info section:nth-child(2) a {
 	font-size:1.4em;
-	letter-spacing:100%;
+	line-height:1.5em;
 	text-transform:uppercase;
 	letter-spacing:1px;
 	border-bottom:1px solid #000000;
