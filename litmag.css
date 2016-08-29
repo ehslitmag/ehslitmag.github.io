@@ -205,13 +205,13 @@ a#onpage {
 #archive {
 	margin:auto;
 	border-spacing:10px;
-	padding:8% 5%;
+	padding:10% 8%;
 	display:none;
 }
 
 #archive td {
 	cursor:pointer;
-	padding:35%;
+	padding:20%;
 	text-align:center;
 	font-size:2.5em;
 	line-height:100%;
