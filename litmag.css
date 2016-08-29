@@ -212,7 +212,8 @@ a#onpage {
 #archive td {
 	cursor:pointer;
 	padding:10% 27%;
-	font-size:2em;
+	margin:-10%;
+	font-size:2.3em;
 	line-height:100%;
 	color:#000;
 	background:#ffffff;
