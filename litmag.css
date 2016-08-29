@@ -204,15 +204,14 @@ a#onpage {
 
 #archive {
 	border-spacing:10px;
-	width:65%;
 	margin:8% auto;
 	display:none;
 }
 
 #archive td {
 	cursor:pointer;
-	padding:10% 27%;
-	margin:-10%;
+	padding:8% 12%;
+	text-align:center;
 	font-size:2.3em;
 	line-height:100%;
 	color:#000;
