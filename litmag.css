@@ -206,15 +206,13 @@ a#onpage {
 	border-spacing:10px;
 	width:65%;
 	margin:8% auto;
-	padding:3%;
 	display:none;
 }
 
 #archive td {
 	cursor:pointer;
-	text-align:center;
-	padding:10% 30%;
-	font-size:2.5em;
+	padding:15% 35%;
+	font-size:2em;
 	line-height:100%;
 	color:#000;
 	background:#ffffff;
