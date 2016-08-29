@@ -213,7 +213,8 @@ a#onpage {
 	cursor:pointer;
 	padding:3% 4%;
 	text-align:center;
-	font-size:2em;
+	font-size:2.5em;
+	line-height:100%;
 	color:#000;
 	background:#ffffff;
 	border-radius:15px;
