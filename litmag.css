@@ -101,7 +101,7 @@ a:hover {
 
 .info {
 	margin:10% auto;
-	width:65%;
+	width:70%;
 	border-radius:10px;
 	padding:4% 5.4% 6.5% 5.4%;
 	border:1px solid #e5e5e5;
@@ -250,7 +250,7 @@ a#onpage {
 	padding:3%;
 	border-radius:15px;
 	border:1px solid #e5e5e5;
-	width:65%;
+	width:75%;
 }
 
 #timeline th:first-child {border-right:1px solid #e5e5e5}
