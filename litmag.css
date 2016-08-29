@@ -205,6 +205,7 @@ a#onpage {
 #archive {
 	margin:auto;
 	border-spacing:10px;
+	width:65%;
 	padding:10% 8%;
 	display:none;
 }
