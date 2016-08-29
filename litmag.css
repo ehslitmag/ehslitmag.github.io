@@ -92,7 +92,7 @@ a:hover {
 }
 
 #desc {
-	margin:15% auto;
+	margin:12% auto;
 	width:65%;
 	text-align:center;
 	display:none;
@@ -103,7 +103,7 @@ a:hover {
 	margin:10% auto;
 	width:65%;
 	border-radius:10px;
-	padding:4% 5.4% 6% 5.4%;
+	padding:4% 5.4% 6.5% 5.4%;
 	border:1px solid #e5e5e5;
 	background:#ffffff;
 	display:none;
