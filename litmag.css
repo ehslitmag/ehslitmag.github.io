@@ -8,7 +8,7 @@
 	header .slideri {display:none;}
 	h1 {display:none;}
 	.info {min-width:80%;}
-	#timeline table {min-width:90%;}
+	#timeline table {min-width:100%;}
  }
 
 /* Scroll bar */
