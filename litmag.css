@@ -102,7 +102,6 @@ a:hover {
 .info {
 	margin:10% auto;
 	width:70%;
-	border-radius:10px;
 	padding:4% 5.4% 6.5% 5.4%;
 	border:1px solid #e5e5e5;
 	background:#ffffff;
@@ -110,8 +109,8 @@ a:hover {
 }
 
 .info section:nth-child(1) {
-	padding-bottom:50px;
-	margin-bottom:50px;
+	padding-bottom:25px;
+	margin-bottom:25px;
 	border-bottom:1px solid #eeeeee;
 }
 
@@ -217,7 +216,6 @@ a#onpage {
 	line-height:100%;
 	color:#000;
 	background:#ffffff;
-	border-radius:15px;
 	-o-transition:0.5s;
 	-moz-transition:0.5s;
 	-webkit-transition:0.5s;
@@ -248,7 +246,6 @@ a#onpage {
 	background:#ffffff;
 	margin:8% auto;
 	padding:3%;
-	border-radius:15px;
 	border:1px solid #e5e5e5;
 	width:75%;
 }
