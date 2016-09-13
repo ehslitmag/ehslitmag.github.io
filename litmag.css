@@ -32,7 +32,7 @@ html, body {
 }
 
 body {
-	font:normal 14px "quattrocento sans", consolas, sans-serif;
+	font:normal 14px "open sans", consolas, sans-serif;
 	background:#ffffff;
 	line-height:100%;
 	color:#000000;
@@ -178,7 +178,7 @@ header {
 	background:#1e1e1e;
 }
 
-.slider p, nav a {font-family:"quattrocento sans", helvetica, sans-serif;}
+.slider p, nav a {font-family:"open sans", helvetica, sans-serif;}
 
 .slider p {
 	display:none;
@@ -291,7 +291,7 @@ footer {
 
 footer p {
     text-align:center;
-	font:bold 0.7em "quattrocento sans", arial, sans-serif;
+	font:bold 0.7em "open sans", arial, sans-serif;
 	color:#f5f5f5;
 	letter-spacing:2px;
 	text-transform:uppercase;
