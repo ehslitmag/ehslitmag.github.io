@@ -32,7 +32,7 @@ html, body {
 }
 
 body {
-	font:normal 14px "open sans", consolas, sans-serif;
+	font:normal 13px "open sans", consolas, sans-serif;
 	background:#f5f5f5;
 	line-height:100%;
 	color:#000000;
@@ -46,7 +46,6 @@ body {
 #title {
 	font-size:1.4em; 
 	font-family:"karla", sans-serif;
-	font-weight:bold;
 	text-transform:uppercase;
 	display:inline;
 	letter-spacing:4px;
