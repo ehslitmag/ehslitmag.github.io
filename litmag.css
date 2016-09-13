@@ -44,7 +44,7 @@ body {
 }
 
 #title {
-	font-size:1.3em; 
+	font-size:1.4em; 
 	font-family:"karla", sans-serif;
 	font-weight:bold;
 	text-transform:uppercase;
@@ -68,16 +68,16 @@ h1, #timeline th, h2 {
 }
 
 h1 {
-	font-size:4em;
+	font-size:5em;
 	line-height:3.1em;
 	text-transform:uppercase;
 	letter-spacing:8px;
 }
 
 #timeline th, h2 {
-	font-size:1.7em;
+	font-size:1.8em;
 	line-height:1.3em;
-	text-transform:uppercase;
+	text-transform:capitalize;
 	letter-spacing:2px;
 }
 
@@ -99,7 +99,7 @@ a:hover {
 }
 
 #desc {
-	margin:14% auto;
+	margin:12% auto;
 	width:65%;
 	text-align:center;
 	display:none;
@@ -197,7 +197,7 @@ nav a {
 	margin-right:20px;
 	text-transform:uppercase;
 	letter-spacing:1px;
-	font-size:0.95em;
+	font-size:0.9em;
 	padding:1px;
 }
 
@@ -290,7 +290,7 @@ footer {
 }
 
 footer p {
-    text-align:center;
+	text-align:center;
 	font:bold 0.7em "open sans", arial, sans-serif;
 	color:#f5f5f5;
 	letter-spacing:2px;
