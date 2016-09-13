@@ -32,8 +32,8 @@ html, body {
 }
 
 body {
-	font:normal 13px "inconsolata", consolas, sans-serif;
-	background:#f5f5f5;
+	font:normal 13px "quattrocento sans", consolas, sans-serif;
+	background:#ffffff;
 	line-height:100%;
 	color:#000000;
 	position:relative;
@@ -45,6 +45,8 @@ body {
 
 #title {
 	font-size:1.3em; 
+	font-family:"karla", sans-serif;
+	font-weight:bold;
 	text-transform:uppercase;
 	display:inline;
 	letter-spacing:4px;
@@ -58,6 +60,11 @@ body {
 #title a:hover {
 	color:#000000;
 
+}
+
+h1, #timeline th, h2 {
+	font-family:"karla", sans-serif;
+	font-weight:bold;
 }
 
 h1 {
@@ -171,7 +178,7 @@ header {
 	background:#1e1e1e;
 }
 
-.slider p, nav a {font-family:"roboto", helvetica, sans-serif;}
+.slider p, nav a {font-family:"quattrocento sans", helvetica, sans-serif;}
 
 .slider p {
 	display:none;
@@ -284,7 +291,7 @@ footer {
 
 footer p {
     text-align:center;
-	font:bold 0.7em "roboto", arial, sans-serif;
+	font:bold 0.7em "quattrocento sans", arial, sans-serif;
 	color:#f5f5f5;
 	letter-spacing:2px;
 	text-transform:uppercase;
