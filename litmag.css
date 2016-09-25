@@ -286,13 +286,13 @@ footer {
 	display:none;
 	margin-bottom:0px;
 	background-color:#2a2a2a;
-	padding:6% 3%;
+	padding:5% 1%;
 	border-top:1px solid #2a2a2a;
 }
 
 footer p {
 	text-align:center;
-	font:bold 0.65em "open sans", arial, sans-serif;
+	font:bold 0.75em "open sans", arial, sans-serif;
 	color:#f5f5f5;
 	letter-spacing:2px;
 	text-transform:uppercase;
