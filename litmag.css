@@ -44,7 +44,7 @@ body {
 }
 
 #title {
-	font-size:1.4em; 
+	font-size:1.5em; 
 	font-family:"karla", sans-serif;
 	text-transform:uppercase;
 	display:inline;
@@ -195,7 +195,7 @@ nav {
 nav a {
 	margin-right:20px;
 	text-transform:uppercase;
-	letter-spacing:3px;
+	letter-spacing:2.5px;
 	font-size:0.95em;
 	padding:1px;
 }
