@@ -114,12 +114,6 @@ a:hover {
 	display:none;
 }
 
-.info section:nth-child(1) {
-	padding-bottom:35px;
-	margin-bottom:35px;
-	border-bottom:1px solid #eeeeee;
-}
-
 .info section:nth-child(2) a {
 	font-size:1.2em;
 	line-height:1.5em;
