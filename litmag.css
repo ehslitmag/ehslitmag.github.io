@@ -136,51 +136,6 @@ header {
 	z-index:99;
 }
 
-.slideri {
-	height:-6px;
-	margin-left:10px;
-	display:inline-block;
-	cursor:help;
-	-o-transition:0.7s;
-	-moz-transition:0.7s;
-	-webkit-transition:0.7s;
-	transition:0.7s;
-}
-
-.active {
-	color:#0000ff;
-	text-shadow:0 0 1px #0000ff;
-	display:inline-block;
-	-o-transform:rotate(180deg);
-	-moz-transform:rotate(180deg);
-	-webkit-transform:rotate(180deg);
-	transform:rotate(180deg);
-	-o-transition:0.7s;
-	-moz-transition:0.7s;
-	-webkit-transition:0.7s;
-	transition:0.7s;
-}
-
-.slider {
-	z-index:7;
-	position:absolute;
-	display:none;
-	height:70px; /*Size needs to be adjusted if more is added; this must be here*/
-	padding:15px 20px 30px 30px;
-	width:300px; 
-	background:#1e1e1e;
-}
-
-.slider p, nav a {font-family:"open sans", helvetica, sans-serif;}
-
-.slider p {
-	display:none;
-	font-size:0.8em;
-	letter-spacing:1px;
-	color:#fff;
-	text-transform:uppercase;
-}
-
 nav {
 	display:inline;
 	float:right;
@@ -257,11 +212,11 @@ a#onpage {
 #timeline th {
 	text-align:left;
 	border-bottom:1px solid #e5e5e5;
-	padding:5% 4%;
+	padding:2.5% 2%;
 }
 
 #timeline td {
-	padding:4%;
+	padding:2%;
 	font-size:1.1em;
 	letter-spacing:0.5px;
 }
