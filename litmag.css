@@ -32,8 +32,8 @@ html, body {
 }
 
 body {
-	font:normal 13px "open sans", consolas, sans-serif;
-	letter-spacing:0.05em;
+	font:normal 14px "open sans", consolas, sans-serif;
+	letter-spacing:0.02em;
 	background:#f5f5f5;
 	line-height:100%;
 	color:#000000;
