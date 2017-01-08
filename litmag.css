@@ -3,8 +3,10 @@
 @media only screen and (max-width:769px) {
 	header {text-align:center;}
 	header #title {font-size:1.7em;}
-	.container-fluid {min-width:100%;}
+	.container-fluid {min-width:90%;}
 	header nav {display:none;}
+	main {min-width:90%;}
+	aside {display:none;}
  }
 
 /* Scroll bar */
