@@ -5,7 +5,7 @@
 	header #title {font-size:1.7em;}
 	.container-fluid {min-width:90%;}
 	header nav {display:none;}
-	main {min-width:90%;padding:2%;margin:0%;border:0;}
+	main {min-width:90%;padding:2%;margin:0%;border-right:0;}
 	aside {display:none!important;}
  }
 
@@ -68,13 +68,9 @@ h1, h2 {
 	margin-bottom:1.5em;
 }
 
-h1 {
-	font-size:1.6em;
-}
+h1 {font-size:1.6em;line-height:120%;}
 
-h2 {
-	font-size:1.2em;
-}
+h2 {font-size:1.2em;line-height:110%;}
 
 a {
 	color:#8c8c8c;
