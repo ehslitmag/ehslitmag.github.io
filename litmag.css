@@ -5,8 +5,8 @@
 	header #title {font-size:1.7em;}
 	.container-fluid {min-width:90%;}
 	header nav {display:none;}
-	main {min-width:90%;}
-	aside {display:none;}
+	main {min-width:90%;padding:2%;margin:0%;border:0;}
+	aside {display:none!important;}
  }
 
 /* Scroll bar */
