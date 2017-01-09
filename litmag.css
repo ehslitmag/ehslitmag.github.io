@@ -100,7 +100,6 @@ main {
 .main {
 	display:none;
 	padding:4% 2%;
-	border-bottom:1px solid #ccc;
 }
 
 .main:last-child {
