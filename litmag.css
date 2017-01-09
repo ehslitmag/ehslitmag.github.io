@@ -30,7 +30,7 @@ html, body {
 }
 
 body {
-	font:normal 13px "source sans pro", consolas, sans-serif;
+	font:normal 14px "source sans pro", consolas, sans-serif;
 	letter-spacing:0.05em;
 	line-height:110%;
 	color:#000000;
@@ -174,7 +174,7 @@ footer {
 
 footer p {
 	text-align:center;
-	font:normal 0.8em inherit;
+	font-size:0.8em;
 	color:#f5f5f5;
 	letter-spacing:0.2em;
 	text-transform:uppercase;
