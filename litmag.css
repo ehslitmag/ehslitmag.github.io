@@ -91,9 +91,9 @@ a:hover {
 
 main {
 	display:inline-block;
-	padding-right:4%;
 	width:60%;
-	border-right:1px solid #ccc;
+	background:#ffffff;
+	padding:0% 2%;
 	margin:2%;
 }
 
