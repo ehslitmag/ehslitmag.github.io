@@ -50,14 +50,7 @@ body {
 	line-height:120%;
 }
 
-#title a {
-	color:#000000;
-}
-
-#title a:hover {
-	color:#000000;
-
-}
+#title a, #title a:hover {color:#000000;}
 
 h1, h2 {
 	font-weight:normal;
@@ -100,9 +93,7 @@ main {
 	padding:4% 2%;
 }
 
-.main:last-child {
-	border:0;
-}
+.main:last-child {border:0;}
 
 aside {
 	display:none;
