@@ -9,19 +9,6 @@
 	aside {display:none!important;}
  }
 
-/* Scroll bar */
-
-::-webkit-scrollbar {
-	background:#101010;
-	width:16px;
-	height:10px;
-}
-
-::-webkit-scrollbar-thumb {
-	background:#ffffff;
-	border:7px solid #101010;
-}
-
 /* Main */
 
 html, body {
