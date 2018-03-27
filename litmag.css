@@ -1,12 +1,7 @@
 /* Responsive */
 
 @media only screen and (max-width:769px) {
-	header {text-align:center;}
-	header #title {font-size:1.7em;}
 	.container-fluid {min-width:90%;}
-	header nav {display:none;}
-	main {min-width:90%;padding:2%;margin:0%;border-right:0;}
-	aside {display:none!important;}
  }
 
 /* Main */
@@ -17,8 +12,7 @@ html, body {
 }
 
 body {
-	font:normal 14px "source sans pro", consolas, sans-serif;
-	letter-spacing:0.05em;
+	font:normal 16px "source sans pro", consolas, sans-serif;
 	line-height:110%;
 	color:#000000;
 	background:#f8f8f8;
@@ -30,9 +24,7 @@ body {
 }
 
 #title {
-	font-size:1.5em; 
-	text-transform:uppercase;
-	display:inline;
+	font-size:1.5em;
 	letter-spacing:0.3em;
 	line-height:120%;
 }
@@ -41,8 +33,6 @@ body {
 
 h1, h2 {
 	font-weight:normal;
-	text-transform:uppercase;
-	letter-spacing:0.25em;
 	margin-bottom:1.5em;
 }
 
@@ -69,48 +59,11 @@ a:hover {
 
 main {
 	display:inline-block;
-	width:60%;
+	width:calc(90% - 8%);
 	background:#ffffff;
 	padding:0% 2%;
 	margin:2%;
 }
-
-.main {
-	display:none;
-	padding:4% 2%;
-}
-
-.main:last-child {border:0;}
-
-aside {
-	display:none;
-	vertical-align:top;
-	width:27%;
-	margin:1% 0%;
-	padding:3.5% 2%;
-	float:right;
-}
-
-#archive ul, #agenda ul {
-	margin:1.5% 0%;
-	padding-left:15px;
-	padding-bottom:10%;
-}
-
-#archive li, #agenda li {
-	padding:0.5% 0%;
-}
-
-#archive, #agenda {
-	display:block;
-	border-bottom:1px solid #ccc;
-}
-
-#more, #agenda {
-	margin-top:10%;
-}
-
-#s {font-size:1.3em;color:#000;}
 
 /* Header */
 
